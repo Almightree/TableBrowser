@@ -1,0 +1,9 @@
+## Interface: 60200
+## Title: Texas Hold'em
+## Version: v60200-0.0.1 
+## Author: Almightree
+## Notes: A table browser
+
+localization.en.lua
+TableBrowser.xml
+TableBrowser.lua
