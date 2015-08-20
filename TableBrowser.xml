@@ -45,7 +45,7 @@
 					</Anchors>
 				</FontString>
 			</Layer>
-		</Layer>
+		</Layers>
 	</Frame>
 	<Scripts>
 		<OnLoad>
